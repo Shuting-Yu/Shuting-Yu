@@ -1,7 +1,7 @@
 - 👋Hi, I’m @Shuting-Yu
 - 👋 I am from Wuhan, China
-- 👀 I graduated from University of Western Australia and major in Mathematics and Statistics (Applied and Pure math)
-- 🌱 I’m currently learning Computer simulation for Engineering and Science in TU Berlin and KTH Swden
+- 👀 [Bachelor] I graduated from University of Western Australia and major in Mathematics and Statistics (Applied and Pure math)
+- 🌱 [Master] I’m currently learning Computer simulation for Engineering and Science (COSSE)in TU Berlin and KTH Swden
 - 💞️ I’m interested in Math modelling and dynamic system ,maybe bio/disese direction (not sure yet)
 - 📫 How to reach me: yushuting516@163.com
 
